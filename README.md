@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there, my name is Marta 👋
 
 <!--
 **marta-rakowska/marta-rakowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
