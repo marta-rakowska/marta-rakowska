@@ -1,5 +1,14 @@
 ### Hi there, my name is Marta 👋
 
+I am a Python enthusiast from Poland.
+
+- 🔭 I’m currently looking for a job as a Junior Python Developer.
+- 🌱 I’m currently learning Django framework.
+- 📫 How to reach me: marta.rakowska91@gmail.com
+- ⚡ Interesting fact: I'm an age group triathlete :swimmer: :bicyclist: :runner:
+
+
+
 <!--
 **marta-rakowska/marta-rakowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Junior Python Developer from Poland.
-
----
-
-### :computer: My profiles:
-
-<p><br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marta-rakowska/)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/preferences/20940392)</br></p>
+<br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marta-rakowska/)
+[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/preferences/20940392)</br>
 
 ---
 
