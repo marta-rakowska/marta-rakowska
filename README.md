@@ -3,7 +3,7 @@
 I am a Python enthusiast from Poland.
 
 🔭 I’m currently looking for a job as a Junior Python Developer.</br>
-🌱 I’m currently learning Django framework.</br>
+🌱 I’m currently learning Django framework and CSS.</br>
 :computer: I've been working as an accountant for international companies from automotive industry for 8 years.<br/>
 :earth_africa: I speak Polish, English, Spanish, Italian and Portuguese</br>
 📫 How to reach me: marta.rakowska91@gmail.com</br>
