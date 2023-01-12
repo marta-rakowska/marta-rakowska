@@ -38,7 +38,6 @@ I am a Python enthusiast from Poland.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marta-rakowska&layout=compact&theme=vision-friendly-dark)](https://github.com/marta-rakowska/github-readme-stats)
 
-
 <!--
 **marta-rakowska/marta-rakowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
