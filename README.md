@@ -4,6 +4,7 @@ I am a Python, SQL and cloud computing enthusiast from Poland.
 
 🔭 I’m currently looking for a job as a Junior Python Developer or Junior Cloud Engineer.</br>
 🌱 I’m currently learning advanced Python, Cloud Engineering and intermediate SQL.</br>
+:book: I'm preparing for "Terraform Associate (002)", "AZ-900: Microsoft Azure Fundamentals" and "GCP Associate Cloud Engineer" exams.<br/>
 :computer: I've been working as an accountant for international companies from automotive industry for 8 years.<br/>
 :earth_africa: I speak Polish, English, Spanish, Italian and Portuguese.</br>
 📫 How to reach me: marta.rakowska91@gmail.com</br>
