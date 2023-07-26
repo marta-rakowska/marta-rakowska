@@ -81,7 +81,7 @@ ___
 
 ---
 
-### Some of my GitHub Stats:
+## Some of my GitHub Stats:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=marta-rakowska.visitor-badge&left_text=My%20Page%20Visitors)
 
