@@ -1,6 +1,6 @@
 ### Hi there, my name is Marta 👋
 
-I am a Python, SQL and cloud computing enthusiast from Poland.
+I am a Junior Manual and Automating Tester from Poland.
 
 🔭 I’m currently looking for a job as a Junior Python Developer or Junior Cloud Engineer.</br>
 🌱 I’m currently learning advanced Python, Cloud Engineering and intermediate SQL.</br>
