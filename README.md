@@ -1,11 +1,11 @@
 ### Hi there, my name is Marta 👋
 
-I am a Junior Manual and Automating Tester from Poland.
+I am a Junior Manual and Automation Tester from Poland.
 
-🔭 I’m currently looking for a job as a Junior Python Developer or Junior Cloud Engineer.</br>
+🔭 I’m currently looking for a job as a Junior Manual Tester or Junior Automation Tester.</br>
 🌱 I’m currently learning advanced Python, Cloud Engineering and intermediate SQL.</br>
 :book: I'm preparing for "Terraform Associate (002)", "AZ-900: Microsoft Azure Fundamentals" and "GCP Associate Cloud Engineer" exams.<br/>
-:computer: I've been working as an accountant for international companies from automotive industry for 8 years.<br/>
+:computer: I've been working as an accountant for international companies from automotive industry for 9 years.<br/>
 :earth_africa: I speak Polish, English, Spanish, Italian and Portuguese.</br>
 📫 How to reach me: marta.rakowska91@gmail.com</br>
 ⚡ Fun fact: I'm an age group triathlete :swimmer: :bicyclist: :runner:</br>
@@ -39,19 +39,6 @@ I am a Junior Manual and Automating Tester from Poland.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marta-rakowska&layout=compact&theme=vision-friendly-dark)](https://github.com/marta-rakowska/github-readme-stats)
 
-<!--
-**marta-rakowska/marta-rakowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
