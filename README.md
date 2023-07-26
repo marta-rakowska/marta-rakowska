@@ -35,9 +35,13 @@ I am a Junior Manual and Automation Tester from Poland.
 ## Projects:
 
 ### Automated tests in Selenium and Python:
+- [Automated tests of sklepstest.pl](https://github.com/marta-rakowska/wsb_final_project_selenium)
+- [Automated tests of the Scouts Panel application](https://github.com/marta-rakowska/challenge_portfolio)
 
 ### Automated tests in Robot Framework:
-
+- [Automated tests of sklepstest.pl](https://github.com/marta-rakowska/wsb_final_project_robotframework)
+- [Automated tests of the Scouts Panel application](https://github.com/marta-rakowska/panelscout_robotframework)
+  
 ---
 
 ## Education:
