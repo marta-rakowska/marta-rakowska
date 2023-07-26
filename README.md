@@ -1,10 +1,10 @@
-### Hi there, my name is Marta 👋
+## Hi there, my name is Marta 👋
 
 I am a Junior Manual and Automation Tester from Poland.
 
 🔭 I’m currently looking for a job as a Junior Manual Tester or Junior Automation Tester.</br>
-🌱 I’m currently learning advanced Python, Cloud Engineering and intermediate SQL.</br>
-:book: I'm preparing for "Terraform Associate (002)", "AZ-900: Microsoft Azure Fundamentals" and "GCP Associate Cloud Engineer" exams.<br/>
+🌱 I’m currently learning </br>
+:book: <br/>
 :computer: I've been working as an accountant for international companies from automotive industry for 9 years.<br/>
 :earth_africa: I speak Polish, English, Spanish, Italian and Portuguese.</br>
 📫 How to reach me: marta.rakowska91@gmail.com</br>
@@ -15,23 +15,58 @@ I am a Junior Manual and Automation Tester from Poland.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+## Languages and Tools:
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+- ![Robot Framework](https://a11ybadges.com/badge?logo=robotframework)
+- ![PyCharm](https://a11ybadges.com/badge?logo=pycharm)
+- ![Git](https://a11ybadges.com/badge?logo=git)
+- ![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud)
+- ![Microsoft Azure](https://a11ybadges.com/badge?logo=microsoftazure)
 
 ---
 
-### :fire: Some of my GitHub Stats:
+## Experience:
+
+---
+
+## Projects:
+
+### Automated tests in Selenium and Python:
+
+### Automated tests in Robot Framework:
+
+---
+
+## Education:
+<br/>
+
+- Postgraduate studies in Python programming at WSB Merito University
+- [Automated Testing + Python](https://drive.google.com/file/d/1Qbe5uFBji06DptyvsXEK3NXW1eORwgu5/view)
+- [Cloud + Platform Engineer](https://drive.google.com/file/d/14lM9LMDL4oxaqiPYBBhiFXUpxcQ_sNj5/view)
+
+---
+
+## Certificates:
+<br/>
+
+- [ISTQB Foundation Level](https://drive.google.com/file/d/1YUL1X8XBDEQO5rMv6YipggRYFcss4V7_/view?usp=sharing)
+
+---
+
+## Skill badges:
+<br/>
+
+- [Automating Infrastructure on Google Cloud with Terraform](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/4109362?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- [Build a Website on Google Cloud](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/4122424?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- [Deploy to Kubernetes in Google Cloud](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/4119920?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/4022973?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- [Create and Manage Cloud Resources](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/3735730?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+
+
+### Some of my GitHub Stats:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=marta-rakowska.visitor-badge&left_text=My%20Page%20Visitors)
 
