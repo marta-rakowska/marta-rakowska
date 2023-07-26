@@ -29,7 +29,7 @@ In May 2023 I started my adventure with crowdtesting. I passed the entry test at
 ## Projects:
 
 ## COLT 2/2023
-- [Testing portfolio] https://github.com/marta-rakowska/cherryit_portfolio
+- [Testing portfolio](https://github.com/marta-rakowska/cherryit_portfolio)
 
 ### Automated tests in Selenium and Python:
 - [Automated tests of sklepstest.pl](https://github.com/marta-rakowska/wsb_final_project_selenium)
