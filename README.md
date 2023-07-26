@@ -41,7 +41,6 @@ I am a Junior Manual and Automation Tester from Poland.
 ---
 
 ## Education:
-<br/>
 
 - Postgraduate studies in Python programming at WSB Merito University
 - [Automated Testing + Python](https://drive.google.com/file/d/1Qbe5uFBji06DptyvsXEK3NXW1eORwgu5/view)
@@ -50,14 +49,12 @@ I am a Junior Manual and Automation Tester from Poland.
 ---
 
 ## Certificates:
-<br/>
 
 - [ISTQB Foundation Level](https://drive.google.com/file/d/1YUL1X8XBDEQO5rMv6YipggRYFcss4V7_/view?usp=sharing)
 
 ---
 
 ## Skill badges:
-<br/>
 
 - [Automating Infrastructure on Google Cloud with Terraform](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/4109362?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 - [Build a Website on Google Cloud](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/4122424?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
