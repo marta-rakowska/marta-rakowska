@@ -3,7 +3,7 @@
 I am a Junior Manual and Automation Tester from Poland.
 
 🔭 I’m currently looking for a job as a Junior Manual Tester or Junior Automation Tester.</br>
-:book: I’m currently learning Jira and Postman.<br/>
+:book: I’m currently learning Postman.<br/>
 :computer: I've been working as an accountant for international companies from automotive industry for 9 years.<br/>
 :earth_africa: I speak Polish, English, Spanish, Italian and Portuguese.</br>
 📫 How to reach me: marta.rakowska91@gmail.com</br>
