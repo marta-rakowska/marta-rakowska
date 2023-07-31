@@ -60,6 +60,7 @@ In May 2023 I started my adventure with crowdtesting. I passed the entry test at
 ## Skill badges:
 
 - [Jira Fundamentals Badge](https://university.atlassian.com/student/award/1qcNU7oZ1YALUtNkpqjQvQYq)
+- [Trello Fundamentals Badge](https://university.atlassian.com/student/award/Ab9bYLYx1au8YUpoRHzRz78e)
 - [Automating Infrastructure on Google Cloud with Terraform](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/4109362?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 - [Build a Website on Google Cloud](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/4122424?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 - [Deploy to Kubernetes in Google Cloud](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/4119920?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
