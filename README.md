@@ -47,6 +47,7 @@ In May 2023 I started my adventure with crowdtesting. I passed the entry test at
 - Postgraduate studies in Python programming at WSB Merito University
 - [Automated Testing + Python](https://drive.google.com/file/d/1Qbe5uFBji06DptyvsXEK3NXW1eORwgu5/view)
 - [Cloud + Platform Engineer](https://drive.google.com/file/d/14lM9LMDL4oxaqiPYBBhiFXUpxcQ_sNj5/view)
+- [DevTools Training](https://drive.google.com/file/d/10l2J7vDOX6c2IxIiaT_B2S9dEpNWDEhO/view?usp=drivesdk)
 - Automated Testing Foundations training at EPAM (in progress)
 - QA Marathon organised by GoIT
 
