@@ -1,7 +1,7 @@
 ## Hi there, my name is Marta 👋
 
 🔭 I work as a Junior Software Tester.</br>
-[:book: I’m currently learning Postman.<br/>]
+:book: I’m currently learning mobile testing and SQL.<br/>
 :computer: I worked as an accountant for international companies from automotive industry for 9 years.<br/>
 :earth_africa: I speak Polish, English, Spanish, Italian and Portuguese.</br>
 📫 How to reach me: marta.rakowska91@gmail.com</br>
@@ -20,7 +20,7 @@ In June 2022 I decided to change my career path from accounting to IT. I finishe
 
 ## Experience:
 
-In May 2023 I started my adventure with crowdtesting. I passed the entry test at Testbirds and completed all courses at the Bird School. In June I joined uTest. Currently I'm taking part in two initiatives organised by Cherry-IT - training project and collaborative testing (COLT 2/2023). I am also working on my own projects in the field of automated testing.
+In May 2023 I started my adventure with crowdtesting. I passed the entry test at Testbirds and completed all courses at the Bird School. In June I joined uTest. From June to August I took part in two initiatives organised by Cherry-IT - training project and collaborative testing (COLT 2/2023). I am working on my own projects in the field of automated testing and I work as a Junior Software Tester.
 
 ---
 
@@ -33,7 +33,6 @@ In May 2023 I started my adventure with crowdtesting. I passed the entry test at
 ### Automated tests in Selenium and Python:
 - [Automated tests of sklepstest.pl](https://github.com/marta-rakowska/wsb_final_project_selenium)
 - [Automated tests of the Scouts Panel application](https://github.com/marta-rakowska/challenge_portfolio)
-- [Automated tests of the Automation Exercise website](https://github.com/marta-rakowska/automation_exercise_selenium) (in progress)
 
 ### Automated tests in Robot Framework:
 - [Automated tests of sklepstest.pl](https://github.com/marta-rakowska/wsb_final_project_robotframework)
@@ -44,11 +43,12 @@ In May 2023 I started my adventure with crowdtesting. I passed the entry test at
 ## Education:
 
 - Postgraduate studies in Python programming at WSB Merito University
+- [Manual Testing]()
 - [Automated Testing + Python](https://drive.google.com/file/d/1Qbe5uFBji06DptyvsXEK3NXW1eORwgu5/view)
-- [Cloud + Platform Engineer](https://drive.google.com/file/d/14lM9LMDL4oxaqiPYBBhiFXUpxcQ_sNj5/view)
 - [DevTools Training](https://drive.google.com/file/d/10l2J7vDOX6c2IxIiaT_B2S9dEpNWDEhO/view?usp=drivesdk)
 - Automated Testing Foundations training at EPAM (in progress)
 - QA Marathon organised by GoIT
+- [Cloud + Platform Engineer](https://drive.google.com/file/d/14lM9LMDL4oxaqiPYBBhiFXUpxcQ_sNj5/view)
 
 ---
 
@@ -56,18 +56,6 @@ In May 2023 I started my adventure with crowdtesting. I passed the entry test at
 
 - [ISTQB Foundation Level](https://drive.google.com/file/d/1YUL1X8XBDEQO5rMv6YipggRYFcss4V7_/view?usp=sharing)
 
----
-
-## Skill badges:
-
-- [Jira Fundamentals Badge](https://university.atlassian.com/student/award/1qcNU7oZ1YALUtNkpqjQvQYq)
-- [Trello Fundamentals Badge](https://university.atlassian.com/student/award/Ab9bYLYx1au8YUpoRHzRz78e)
-- [Automating Infrastructure on Google Cloud with Terraform](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/4109362?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-- [Build a Website on Google Cloud](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/4122424?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-- [Deploy to Kubernetes in Google Cloud](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/4119920?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-- [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/4022973?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-- [Create and Manage Cloud Resources](https://www.cloudskillsboost.google/public_profiles/6af5c597-4b7c-4718-96ae-f357b63ac57a/badges/3735730?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-  
 ___
 
 ## Languages and Tools:
@@ -84,15 +72,6 @@ ___
 - ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 - ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
----
-
-## Some of my GitHub Stats:
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=marta-rakowska.visitor-badge&left_text=My%20Page%20Visitors)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marta-rakowska&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marta-rakowska&layout=compact&theme=vision-friendly-dark)](https://github.com/marta-rakowska/github-readme-stats)
 
 
 
