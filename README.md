@@ -1,7 +1,7 @@
 ## Hi there, my name is Marta 👋
 
 🔭 I work as a Junior Software Tester.</br>
-:book: I’m currently learning mobile testing and SQL.<br/>
+:book: I’m currently learning DevTools, AI testing and SQL.<br/>
 :computer: I worked as an accountant for international companies from automotive industry for 9 years.<br/>
 :earth_africa: I speak Polish, English, Spanish, Italian and Portuguese.</br>
 📫 How to reach me: marta.rakowska91@gmail.com</br>
