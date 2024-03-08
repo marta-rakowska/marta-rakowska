@@ -1,7 +1,7 @@
 ## Hi there, my name is Marta 👋
 
 🔭 I work as a Junior Software Tester.</br>
-:book: I’m currently learning DevTools, AI testing and SQL.<br/>
+:book: I’m constantly developing my skills. Currently I'm learning advanced SQL, API testing (Postman and SoapUI), Selenium and Playwright with Python.<br/>
 :computer: I worked as an accountant for international companies from automotive industry for 9 years.<br/>
 :earth_africa: I speak Polish, English, Spanish, Italian and Portuguese.</br>
 📫 How to reach me: marta.rakowska91@gmail.com</br>
@@ -20,7 +20,7 @@ In June 2022 I decided to change my career path from accounting to IT. I finishe
 
 ## Experience:
 
-In May 2023 I started my adventure with crowdtesting. I passed the entry test at Testbirds and completed all courses at the Bird School. In June I joined uTest. From June to August I took part in two initiatives organised by Cherry-IT - training project and collaborative testing (COLT 2/2023). I am working on my own projects in the field of automated testing and I work as a Junior Software Tester.
+In May 2023 I started my adventure with crowdtesting. I passed the entry test at Testbirds and completed all courses at the Bird School. In June I joined uTest. From June to August I took part in two initiatives organised by Cherry-IT - training project and collaborative testing (COLT 2/2023). I work as a Junior Software Tester. In my free time I am working on my own projects in the field of automated testing or I am taking part in crowdtesting project.
 
 ---
 
@@ -43,10 +43,11 @@ In May 2023 I started my adventure with crowdtesting. I passed the entry test at
 ## Education:
 
 - Postgraduate studies in Python programming at WSB Merito University
-- [Manual Testing]()
+- Automated Testing with Selenium and Python
+- [Manual Testing](https://drive.google.com/file/d/1vGorMJT6V2IGmfMkLgM8dLf5mBcApXnX/view?usp=share_link)
 - [Automated Testing + Python](https://drive.google.com/file/d/1Qbe5uFBji06DptyvsXEK3NXW1eORwgu5/view)
 - [DevTools Training](https://drive.google.com/file/d/10l2J7vDOX6c2IxIiaT_B2S9dEpNWDEhO/view?usp=drivesdk)
-- Automated Testing Foundations training at EPAM (in progress)
+- Automated Testing Foundations training at EPAM
 - QA Marathon organised by GoIT
 - [Cloud + Platform Engineer](https://drive.google.com/file/d/14lM9LMDL4oxaqiPYBBhiFXUpxcQ_sNj5/view)
 
@@ -66,11 +67,12 @@ ___
 - ![Robot Framework](https://a11ybadges.com/badge?logo=robotframework)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 - ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 - ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 
