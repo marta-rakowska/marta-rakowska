@@ -41,7 +41,8 @@ In May 2023 I started my adventure with crowdtesting. I passed the entry test at
 ---
 
 ## Education:
-
+- [Databases, SQL for testers and analysts ](https://verified.sertifier.com/en/verify/87007665438130/?ref=email)
+- 
 - Postgraduate studies in Python programming at WSB Merito University
 - Automated Testing with Selenium and Python
 - [Manual Testing](https://drive.google.com/file/d/1vGorMJT6V2IGmfMkLgM8dLf5mBcApXnX/view?usp=share_link)
