@@ -1,7 +1,7 @@
 ## Hi there, my name is Marta 👋
 
 🔭 I work as a Junior Software Tester.</br>
-:book: I’m constantly developing my skills. Currently I'm learning advanced SQL, API testing (Postman and SoapUI), Selenium and Playwright with Python.<br/>
+:book: I’m constantly developing my skills. I'm interested in API testing (Postman and SoapUI), AI in testing, Selenium and Playwright with Python.<br/>
 :computer: I worked as an accountant for international companies from automotive industry for 9 years.<br/>
 :earth_africa: I speak Polish, English, Spanish, Italian and Portuguese.</br>
 📫 How to reach me: marta.rakowska91@gmail.com</br>
