@@ -41,7 +41,7 @@ In May 2023 I started my adventure with crowdtesting. I passed the entry test at
 ---
 
 ## Education:
-
+- [ChatGPT for testers](https://drive.google.com/file/d/1hc44dc11STGmQNCa6-I8QU8GBfDyDjCL/view?usp=sharing)
 - [Databases, SQL for testers and analysts](https://verified.sertifier.com/en/verify/87007665438130/?ref=email)
 - [Introduction to API testing in Postman](https://verified.sertifier.com/en/verify/39975043577915/?ref=email)
 - Postgraduate studies in Python programming at WSB Merito University
