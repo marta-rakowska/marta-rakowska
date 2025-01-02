@@ -20,7 +20,7 @@ In June 2022 I decided to change my career path from accounting to IT. I finishe
 
 ## Experience:
 
-In May 2023 I started my adventure with crowdtesting. I passed the entry test at Testbirds and completed all courses at the Bird School. In June I joined uTest. From June to August I took part in two initiatives organised by Cherry-IT - training project and collaborative testing (COLT 2/2023). I work as a Junior Software Tester. In my free time I am working on my own projects in the field of automated testing or I am taking part in crowdtesting project.
+In May 2023 I started my adventure with crowdtesting. I passed the entry test at Testbirds and completed all courses at the Bird School. In June I joined uTest. From June to August I took part in two initiatives organised by Cherry-IT - training project and collaborative testing (COLT 2/2023). I've been working as a Software Tester since October 2023. In my free time I am working on my own projects in the field of automated testing or I am taking part in crowdtesting project.
 
 ---
 
