@@ -38,6 +38,12 @@ In May 2023 I started my adventure with crowdtesting. I passed the entry test at
 ### Automated tests in Robot Framework:
 - [Automated tests of sklepstest.pl](https://github.com/marta-rakowska/wsb_final_project_robotframework)
 - [Automated tests of the Scouts Panel application](https://github.com/marta-rakowska/panelscout_robotframework)
+
+---
+
+## Certificates:
+
+- [ISTQB Foundation Level](https://drive.google.com/file/d/1YUL1X8XBDEQO5rMv6YipggRYFcss4V7_/view?usp=sharing)
   
 ---
 
@@ -59,12 +65,6 @@ In May 2023 I started my adventure with crowdtesting. I passed the entry test at
 - [Cloud + Platform Engineer](https://drive.google.com/file/d/14lM9LMDL4oxaqiPYBBhiFXUpxcQ_sNj5/view)
 
 ---
-
-## Certificates:
-
-- [ISTQB Foundation Level](https://drive.google.com/file/d/1YUL1X8XBDEQO5rMv6YipggRYFcss4V7_/view?usp=sharing)
-
-___
 
 ## Languages and Tools:
 <br/>
