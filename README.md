@@ -1,11 +1,11 @@
 ## Hi there, my name is Marta 👋
 
 🔭 I work as a Software Tester.</br>
-:book: I’m constantly developing my skills. I'm interested in API testing (Postman and SoapUI), AI in testing, Selenium and Playwright with Python.<br/>
+:book: I’m constantly developing my skills. I'm interested in API testing (Postman and SoapUI), AI in testing, test automation with Selenium/Playwright and Python.<br/>
 :computer: I worked as an accountant for international companies from automotive industry for 9 years.<br/>
 :earth_africa: I speak Polish, English, Spanish, Italian and Portuguese.</br>
 📫 How to reach me: marta.rakowska91@gmail.com</br>
-⚡ Fun fact: I'm an age group triathlete :swimmer: :bicyclist: :runner:</br>
+⚡ Fun fact: I'm an age group triathlete, boxer and snowboarder :swimmer: :bicyclist: :runner: 🥊 :snowboarder: </br>
 
 <br>[<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marta-rakowska/)
 [<img alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/preferences/20940392)</br>
